@@ -1,7 +1,4 @@
-//Name: Samuel Kheysin
-//Date: 6/10/21
-//Description: Create an island/continent out of a method known as a "Particle Roll" Algorithm
-//Usage: <exe> [-f] [outputfile]
+//Samuel Kheysin
 
 #include <iostream>    
 
